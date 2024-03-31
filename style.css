@@ -57,3 +57,21 @@
 body {
   background-color: #cfffcb;
 }
+/*====================*/
+
+@media (max-width: 1310px0) {
+  .wrapper {
+    max-width: 900px;
+  }
+  .card {
+    width: 100%;
+    .card__img {
+      height: 325px;
+      margin-bottom: 200px;
+    }
+    .card__desc {
+      width: 55px;
+      height: 600px;
+    }
+  }
+}
