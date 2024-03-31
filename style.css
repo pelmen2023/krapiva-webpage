@@ -65,13 +65,13 @@ body {
   }
   .card {
     width: 100%;
-    .card__img {
-      height: 325px;
-      margin-bottom: 200px;
-    }
-    .card__desc {
-      width: 55px;
-      height: 600px;
-    }
+    margin-bottom: 200px;
+  }
+  .card__img {
+    height: 325px;
+  }
+  .card__desc {
+    width: 55%;
+    height: 600px;
   }
 }
